@@ -99,10 +99,19 @@ img {
     width: 100%;
   }
 
+  #steps{
+    padding-top: 20px;
+  }
+
   #steps .row > .left, 
   #steps .row > .central, 
   #steps .row > .right{
     width: 100%;
     margin-bottom: 30px;
+  }
+
+  #why{
+    background-color: #f2f2cd;
+    padding-top: 20px;
   }
 }
